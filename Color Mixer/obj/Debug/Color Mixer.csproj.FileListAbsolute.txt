@@ -1,0 +1,9 @@
+C:\Users\Jon\Desktop\CS 1030\Programming Assignments\Color Mixer\Color Mixer\bin\Debug\Color Mixer.exe.config
+C:\Users\Jon\Desktop\CS 1030\Programming Assignments\Color Mixer\Color Mixer\obj\Debug\Color Mixer.csprojResolveAssemblyReference.cache
+C:\Users\Jon\Desktop\CS 1030\Programming Assignments\Color Mixer\Color Mixer\obj\Debug\Color_Mixer.frmMain.resources
+C:\Users\Jon\Desktop\CS 1030\Programming Assignments\Color Mixer\Color Mixer\obj\Debug\Color_Mixer.Properties.Resources.resources
+C:\Users\Jon\Desktop\CS 1030\Programming Assignments\Color Mixer\Color Mixer\obj\Debug\Color Mixer.csproj.GenerateResource.Cache
+C:\Users\Jon\Desktop\CS 1030\Programming Assignments\Color Mixer\Color Mixer\bin\Debug\Color Mixer.exe
+C:\Users\Jon\Desktop\CS 1030\Programming Assignments\Color Mixer\Color Mixer\bin\Debug\Color Mixer.pdb
+C:\Users\Jon\Desktop\CS 1030\Programming Assignments\Color Mixer\Color Mixer\obj\Debug\Color Mixer.exe
+C:\Users\Jon\Desktop\CS 1030\Programming Assignments\Color Mixer\Color Mixer\obj\Debug\Color Mixer.pdb
